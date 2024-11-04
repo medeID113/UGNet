@@ -8,8 +8,7 @@ See below for a quickstart installation and usage example.
 - [Usage](##Usage)
 
 ## Dataset
-The dataset in our study is based on VisDrone2019-DET dataset(https://github.com/VisDrone/VisDrone-Dataset), and AI-TOD dataset (https://github.
-com/jwwangchn/AI-TOD)
+The dataset in our study is based on VisDrone2019-DET dataset(https://github.com/VisDrone/VisDrone-Dataset), and AI-TOD dataset (https://github.com/jwwangchn/AI-TOD)
 
 
 ## Install
