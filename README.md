@@ -8,10 +8,8 @@ See below for a quickstart installation and usage example.
 - [Usage](##Usage)
 
 ## Dataset
-
-We use the Multi-Perspective Road Damage Dataset, and everything about it is in the Baidu web disk：
-
-link: https://pan.baidu.com/s/1E-Y9tU66-1a2SncA_s7APw?pwd=1027  code: 1027
+The dataset in our study is based on VisDrone2019-DET dataset(https://github.com/VisDrone/VisDrone-Dataset), and AI-TOD dataset (https://github.
+com/jwwangchn/AI-TOD)
 
 
 ## Install
