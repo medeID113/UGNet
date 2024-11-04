@@ -33,6 +33,8 @@ Training:
 
  ```
  yolo detect train data=VisDrone.yaml model=ultralytics/cfg/models/UGNet.yaml epochs=120 imgsz=640 batch=4
+
+yolo detect train data=ultralytics/cfg/datasets/aitod.yaml model=ultralytics/cfg/models/UGNet.yaml epochs=120 imgsz=640 batch=4
  ```
 
 
